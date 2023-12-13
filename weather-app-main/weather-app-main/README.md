@@ -1,4 +1,4 @@
-# WaroDev Weather App README
+#README
 
 The WaroDev Weather App is a simple and user-friendly web application designed to provide users with real-time weather information using data from the OpenWeatherMap API. This app is built using vanilla JavaScript, HTML, and CSS, making it easy to understand and modify according to your needs.
 
